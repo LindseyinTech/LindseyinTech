@@ -11,7 +11,7 @@
 <p align="center">
   I'm a full-stack developer passionate about functional and creative programming solutions. 
   I attended my first course on HTML and CSS in 2015 and I have yet to find an end to my curiosity for software engineering. 
-  I'm currently building full-stack web applications and I'm learning creative programming in my free time. 
+  I'm currently building full-stack web applications and learning creative programming. 
   Besides programming I enjoy 🌱 cooking tofu, 🎮 gaming, and 🌸 exploring botanical gardens.
 
 If you'd lke to reach me or see what I'm working on my socials are linked below 👇
